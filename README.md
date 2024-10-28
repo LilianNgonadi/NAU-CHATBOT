@@ -1,7 +1,7 @@
 # NAU Chatbot
 ![UNIZIK](Unizik.png "Unizik")
 
-A chatbot developed for Nnamdi Azikiwe University (UNIZIK) to provide information about the university, its programs, admission requirements, campus facilities, and more. This project was built using Python and Flask to enhance user engagement and help prospective students, staff, and visitors easily access essential information.
+A chatbot developed for Nnamdi Azikiwe University (UNIZIK) to provide information about the university, its programs, admission requirements, campus facilities, and more. This project was built using Java, HTML and CSS to enhance user engagement and help prospective students, staff, and visitors easily access essential information.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
