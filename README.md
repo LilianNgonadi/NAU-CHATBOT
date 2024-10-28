@@ -48,5 +48,7 @@ This section will guide you through running the application of the **Nnamdi Azik
 - Open index.html in a web browser.
 - Start interacting with the chatbot through the interface.
 
+  ![Chatbot](Chatbot.gif)
+
 
 
